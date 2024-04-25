@@ -1,4 +1,4 @@
-# 👋 Drake (he/him) 🚴💨
+# 👋 Drake (he/him)
 I'm a **software developer** and technology **educator**; focused on **front-end** development, **mobile** applications, and **UI/UX** design. Over the past decade I've helped launch dozens of websites, shipped hundreds of apps/games, and taught _hundreds_ of students about technology.
 
 - 💼 [linkedin.com/in/arlin](https://linkedin.com/in/arlin)
